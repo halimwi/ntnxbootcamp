@@ -1,4 +1,6 @@
 # ntnxbootcamp
+**VDI access link:** https://console.nutanix.com/x/labs or https://blr-ras.xlabs.nutanix.com/userportal/login
+**Lab Guide:** https://tinyurl.com/ntnx8julybootcamp
 
 | No | First Name    | Last Name   | VDI User Name     | VDI Password | Prism Username | Prism Password | Prism Element IP                                           | Prism Central IP                                          |
 | -- | ------------- | ----------- | ----------------- | ------------ | -------------- | -------------- | ---------------------------------------------------------- | --------------------------------------------------------- |
